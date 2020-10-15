@@ -1,0 +1,51 @@
+name,city,state,zipcode,latitude,longitude,categories,average_rating,average_reviews,final_price,distance,review_count_bins,distance_bins
+Tacorea - Chinatown,San Francisco,CA,94133,37.797972,-122.407453,"['Mexican', 'Korean', 'Latin American']",4.666666667,59,$,1.795138158,Low_count_reviews,In_city
+Hot Sauce and Panko,San Francisco,CA,94109,37.794505,-122.417957,"['American (New)', 'French', 'British']",4.733333333,791,$,1.358240095,Mid_count_reviews,In_city
+Beretta Pop Up,San Francisco,CA,94117,37.775749,-122.43825,['Italian'],4.3,23.5,$,1.303645017,Low_count_reviews,In_city
+T Kee Restaurant,San Francisco,CA,94122,37.753829,-122.490599,['Chinese'],3.8,151,$,5.129977075,Low_count_reviews,Outskirts
+Aria Korean Street Food,San Francisco,CA,94109,37.78655,-122.41795,"['Korean', 'Spanish]",4.35,576,$$,0.811148177,Mid_count_reviews,In_city
+The Bird,San Francisco,CA,94105,37.78724,-122.39995,['British'],4.425,938.25,$,1.591441903,Mid_count_reviews,In_city
+Tacorea,San Francisco,CA,94108,37.7897794,-122.410717,"['Mexican', 'Korean', 'Latin American']",4.625,780,$,1.190295294,Mid_count_reviews,In_city
+The Codmother Fish & Chips,San Francisco,CA,94133,37.80727026,-122.4170938,['British'],4.55,1433.25,$,2.242239753,Mid_count_reviews,In_city
+Tanglad,San Francisco,CA,94114,37.761492,-122.434844,['Korean'],0,0,$,1.413057448,Low_count_reviews,In_city
+HRD,San Francisco,CA,94107,37.78110658,-122.3953297,"['Korean', 'Asian Fusion', 'Mexican']",4.2,1682.5,$,1.717389014,Mid_count_reviews,In_city
+Hoshinoya,San Francisco,CA,94115,37.78621,-122.429756,['American (New)'],4.55,234.5,$$$,1.05951684,Low_count_reviews,In_city
+San Tung,San Francisco,CA,94122,37.763693,-122.469008,['Spanish'],4.133333333,2969.666667,$$,3.513741191,High_count_reviews,Within_city
+Marufuku Ramen SF,San Francisco,CA,94115,37.785014,-122.431842,['Mexican'],4.45,1263,$$,1.107815105,Mid_count_reviews,In_city
+New England Lobster Market & Eatery,Burlingame,CA,94010,37.602687,-122.374733,"['Japanese', 'Thai', 'American (Traditional)']",4.6,1584,$$,12.29245349,Mid_count_reviews,Outskirts
+Chicken as Cluck,San Francisco,CA,94124,37.75058629,-122.3951784,"['Chinese', 'American (New)']",4.3,88.33333333,$,2.37118554,Low_count_reviews,In_city
+Sushirrito,San Francisco,CA,94108,37.79022418,-122.4037662,"['Asian Fusion', 'Chinese']",3.46,364.2,$,1.512519858,Low_count_reviews,In_city
+Chubby Noodle Chinese Take Out,San Francisco,CA,94123,37.8000747,-122.4354078,['Vietnamese'],4.45,333.5,$$,2.061232875,Low_count_reviews,In_city
+Gorilla Barbeque,Pacifica,CA,94044,37.613158,-122.487636,['American (Traditional)'],4.25,658,$$,12.12899728,Mid_count_reviews,Outskirts
+What The Cluck,San Francisco,CA,94117,37.7695304,-122.4515775,['Mexican'],4.74,102.5,$$,2.253851054,Low_count_reviews,In_city
+Lou's Cafe,San Francisco,CA,94118,37.78045,-122.473308,['Japanese'],3.5,524.5,$,3.744129903,Mid_count_reviews,Within_city
+Cafe De Casa,San Francisco,CA,94114,37.76236,-122.43471,['American (New)'],3.64,130,$,1.367310737,Low_count_reviews,In_city
+Saucy Asian,San Francisco,CA,94114,37.76270517,-122.4308755,"['Japanese', 'Asian Fusion']",4.4,134.6,$,1.156946113,Low_count_reviews,In_city
+Golden Boy Pizza,San Francisco,CA,94133,37.7997956,-122.4080729,['American (New)'],4.625,1899.5,$,1.889773761,Mid_count_reviews,In_city
+Gyu-Kaku Japanese BBQ,San Francisco,CA,94103,37.782098,-122.403773,"['Asian Fusion', 'Chinese']",2.25,58.5,$$,1.188691838,Low_count_reviews,In_city
+Volcano,San Francisco,CA,94121,37.78067,-122.47802,['American (New)'],0,0,$,4.069562189,Low_count_reviews,Within_city
+SF Chickenbox,San Francisco,CA,94110,37.7597582,-122.4212092,['British'],4.55,38,$$,1.053639133,Low_count_reviews,In_city
+Cracked & Battered - Marina,San Francisco,CA,94123,37.80048,-122.44014,['American (Traditional)'],4.775,79.75,$,2.275290222,Low_count_reviews,In_city
+Homeroom,Oakland,CA,94609,37.828739,-122.259982,['Japanese'],2.833333333,2039.666667,$$,11.62523504,High_count_reviews,Outskirts
+Hook Fish,San Francisco,CA,94122,37.7623772,-122.5065697,['Thai'],4.65,385,$,6.084290406,Low_count_reviews,Outskirts
+Dumpling Baby China Bistro,San Francisco,CA,94118,37.781031,-122.459886,['American (Traditional)'],4.9,33.5,$,2.829025737,Low_count_reviews,Within_city
+Good Luck Dim Sum,San Francisco,CA,94118,37.78307724,-122.4672012,['Italian'],4.2,284.5,$,3.350512224,Low_count_reviews,Within_city
+Fish Restaurant,Sausalito,CA,94965,37.8681399,-122.49766,"['Japanese', 'Asian Fusion', 'American (Traditional)']",3.15,813.75,$$,8.410543261,Mid_count_reviews,Outskirts
+World Famous Hotboys,Oakland,CA,94612,37.806706,-122.272368,['Seafood'],4.6,430,$$,10.39325843,Low_count_reviews,Outskirts
+Amitis Café,San Francisco,CA,94117,37.77384,-122.44583,"['Seafood', 'Mexican']",4.52,75.2,$,1.827486132,Low_count_reviews,In_city
+Tacos El Patrón,San Francisco,CA,94110,37.748949,-122.416138,['American (New)'],4.25,276,$,1.807150867,Low_count_reviews,In_city
+Hotbird,San Francisco,CA,94103,37.776775,-122.416414,"['Chinese', 'Asian Fusion']",4.833333333,36,$,0.243603423,Low_count_reviews,In_city
+Chubby Noodle,San Francisco,CA,94133,37.7997609,-122.4085676,['American (New)'],4.366666667,341,$$,1.87367993,Low_count_reviews,In_city
+Dumpling Time,San Francisco,CA,94103,37.7697533,-122.4022546,['American (New)'],4.375,959.5,$$,1.236780448,Mid_count_reviews,In_city
+Super Duper Burgers,San Francisco,CA,94114,37.7640301,-122.433699,"['Korean', 'Asian Fusion']",2.833333333,1051.666667,$,1.240970494,Mid_count_reviews,In_city
+The Italian Homemade Company,San Francisco,CA,94123,37.79742,-122.43097,"['Brazilian', 'Seafood']",3.7,489.6,$$,1.749302134,Low_count_reviews,In_city
+The Italian Homemade Company,San Francisco,CA,94123,37.79742,-122.43097,['Chinese'],3.7,489.6,$$,1.749302134,Low_count_reviews,In_city
+DragonEats,San Francisco,CA,94117,37.769497,-122.450111,['Italian'],2.866666667,136.6666667,$,2.154377624,Low_count_reviews,In_city
+Butter & Crumble,San Francisco,CA,94123,37.798849,-122.435604,['Italian'],2.5,4.5,$,1.997850576,Low_count_reviews,In_city
+Saigon Sandwich,San Francisco,CA,94102,37.78315196,-122.417318,['Korean'],4.575,1099,$,0.588020504,Mid_count_reviews,In_city
+Mr Banh Mi,San Francisco,CA,94121,37.7755706,-122.4975768,['Japanese'],4.7,79.6,$,5.401342921,Low_count_reviews,Outskirts
+Box Kitchen,San Francisco,CA,94103,37.78115108,-122.4063651,['Mexican'],4.55,556.75,$,0.998784247,Mid_count_reviews,In_city
+MaMa Ji's,San Francisco,CA,94114,37.76075841,-122.4387292,['Mexican'],4.375,389.75,$$,1.654715122,Low_count_reviews,In_city
+The Little Chihuahua,San Francisco,CA,94117,37.7720399,-122.43688,"['Mexican', 'British']",3.2,411,$,1.223734079,Low_count_reviews,In_city
+Stix,San Francisco,CA,94116,37.742616,-122.4809192,"['Chinese', 'Asian Fusion']",2.25,73.5,$,4.800062126,Low_count_reviews,Within_city
+Cafe Okawari,San Francisco,CA,94107,37.77826,-122.39388,"['Vietnamese', 'British']",4.45,76,$,1.778365302,Low_count_reviews,In_city
